@@ -1,0 +1,40 @@
+body {
+  background-color:lightgray;
+ background: url(https://68.media.tumblr.com/6e76f577f2a8345667bf6408cec8d3a3/tumblr_o8200bo1ht1v30atvo1_500.jpg) no-repeat top center; 
+ background-size: 1300px 250px;
+  
+}
+
+.title {
+  text-align:center;
+  padding-top:70px;
+}
+
+.container {
+  
+  padding: 80px 50px 50px 50px;
+  margin:0 50px 0 50px;
+}
+
+.container-btn{
+  padding: 30px 30px 30px 30px;
+  margin:0 50px 0 500px;
+}
+
+.btn {
+  font-size : 20px;
+  padding: 20px 20px 20px 20px;
+  margin:0 50px 0 50px;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #555555;
+  border-radius: 50%;
+}
+
+.btn:hover {
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+background-color: #555555;
+color: white;
+}
+
+
