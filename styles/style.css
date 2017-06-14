@@ -135,6 +135,12 @@ body:after {
 .nav__cb:checked ~ .nav__content .nav__item:nth-child(7) .nav__item-text {
   transition-delay: 0.6s;
 }
+.nav__item:nth-child(8) .nav__item-text {
+  transition-delay: 0s;
+}
+.nav__cb:checked ~ .nav__content .nav__item:nth-child(8) .nav__item-text {
+  transition-delay: 0.7s;
+}
 .nav__btn {
   position: absolute;
   right: 0;
